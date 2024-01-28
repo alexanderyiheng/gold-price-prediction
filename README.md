@@ -1,5 +1,5 @@
 
-Gold Price Prediction using LSTM
+# Gold Price Prediction using LSTM
 This project involves predicting the daily closing price of gold (XAUUSD) using Long Short-Term Memory (LSTM) neural networks. The script utilizes financial data, including historical gold prices and the Volatility Index (VIX), to train and evaluate the LSTM model.
 
 Project Overview
